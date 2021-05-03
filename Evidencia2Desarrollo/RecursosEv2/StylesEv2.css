@@ -1,0 +1,228 @@
+p.yes {
+    text-align: center;
+    color: white;
+    background-color:#ce1212;
+    margin: auto;
+    font-style: oblique;
+    font-size: 1.5em;
+     }
+
+h1.web {
+    background-color: #ce1212;
+    text-align: end;
+}
+
+h1 {
+    margin: auto;
+    font-size: 7em;
+    font-family: fantasy;
+    background-color: #ce1212;
+    color: white;
+    font-style: oblique;
+}
+
+h1.info {
+    margin: auto;
+    font-size: 3em;
+    font-family: fantasy;
+    background-color: #ce1212;
+    color: white;
+    text-align: center;
+}
+
+h1.contacto {
+    margin: auto;
+    font-size: 2em;
+    font-family: fantasy;
+    background-color: #ce1212;
+    color: white;
+}
+
+h1#tuto {
+    margin: auto;
+    font-size: 2em;
+    font-family: fantasy;
+    background-color: #ce1212;
+    color: white;
+    text-align: center;
+}
+ h1#shop {
+    margin: auto;
+    font-size: 2em;
+    font-family: fantasy;
+    background-color:#ce1212;
+    color: #eeebdd;
+    text-align: center;
+ }
+
+ a strong {
+     margin: auto;
+     font-family: monospace;
+     font-size: 2em;
+     color: #eeebdd;
+     background-color: #ce1212;
+     font-family: fantasy ;
+    
+    }
+
+p.pie {
+    background-color: #1b1717;
+    color: #eeebdd;
+    margin: 0%;
+    font-size: 1em;
+    font-family: fantasy;
+    text-align: center;
+}
+ 
+#el-menu {
+    text-align: center;
+    padding-left: 0;
+    list-style: none;
+    display: flexbox;
+    background-color: #ce1212;
+
+    justify-content: space-evenly;
+    align-items:center;
+    margin-top: 0;
+    height: 50px;
+}
+
+#el-menu a {
+    color: #eeebdd;
+    font-family: fantasy;
+    text-decoration: none;
+}
+
+#el-menu td:hover {
+    background-color: #1b1717;
+}
+
+#el-menu td {
+    flex-flow: 1;
+    padding: 0.7em;
+}
+
+* div {
+    font-family: monospace;
+
+    text-align: left;
+    color: #ce1212;
+    text-emphasis: none;
+    justify-content: space-evenly;
+}
+
+address {
+    font-style: italic;
+    background-color: #ce1212;
+    color: #eeebdd ;
+}
+
+ul {
+    color: #eeebdd;
+    font-family: fantasy;
+    font-size: 2em;
+    margin: 1em;
+    padding: 1em;
+    text-align: center;
+   
+  }
+
+h3 {
+    text-align: center; 
+    background-color: #eeebdd; 
+    color: #810000;
+    margin: 1em; 
+    padding: 2em;
+    font-size: 2em;
+    font-family: sans-serif;
+}
+
+header img {
+    width: 100%;
+    width: 70em;
+    
+}
+
+
+h2 {
+    bottom: 10%;
+    color: #810000;
+    font-family: initial;
+    margin: auto;
+    columns: 2;
+    column-rule: black solid 2px
+  }
+
+  iframe {
+      top: 10cm;
+      margin: auto;
+      width: 100%;
+  }
+
+h4,h5,h6 { 
+    font-size: 3em;
+    font-family: monospace;
+    color: #810000;
+    background-color: #eeebdd;
+    text-align: center;
+    margin: auto;
+}
+
+img.imagen {
+    margin: auto;
+    width: 25em;
+    width: 50%;
+    padding: 0;
+    height: 30em;
+    display: block;
+    top: 10cm;
+    float: none;
+}
+
+button.rojo {
+    font-size: 0.5em;
+    font-family: fantasy;
+    background-color: #eeebdd;
+    color: #1b1717;
+
+}
+
+section p {
+    font-family: monospace;
+    font-size: 1em;
+    background-color: #810000;
+    color: #eeebdd;
+    margin: 0%;
+}
+
+label {
+    color: #999;
+    background-color: white;
+    font-size: 1em;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0 auto;
+    border-radius: 3px;
+    padding: 10px;
+    width: 300px;
+
+}
+
+select {
+    color: black;
+    background-color: #eeebdd;
+    padding: 10px;
+    width: 300px;
+
+     }
+
+     input {
+         border: solid 1px #999;
+         width: 300px;
+        
+     }
+
+     a.envio {
+         border: 0;
+         outline: none;
+         width: 280px;
+     }
